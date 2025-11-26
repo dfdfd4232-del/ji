@@ -2,5 +2,7 @@
   "name": "USDT",
   "symbol": "USDT",
   "description": "Tether USD on Solana Devnet",
-  "image": "https://github.com/dfdfd4232-del/ji/blob/main/USDT_Logo.png"
+  "image": "https://raw.githubusercontent.com/dfdfd4232-del/ji/main/USDT_Logo.png
+"
 }
+
